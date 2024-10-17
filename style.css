@@ -1,0 +1,32 @@
+body{
+text-align:center;
+background-color:#083350;
+}
+img{
+width:700px;
+height:450px;
+border-style: double;
+border-radius:500px;
+border-color:;
+}
+p{
+font-size:x-large;
+color: rgb(42, 165, 149);
+font-family: sans-serif;
+}
+h1{
+font-size:70px;
+color:burlywood
+font-family:coral
+backgrond-color:cornflowerblue;
+}
+a{
+font-size: small;
+color: deeppink;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+iframe{
+border-radius:70px;
+border-style: double;
+border-width:20px;
+}
